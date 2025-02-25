@@ -6,7 +6,7 @@ A real-time lightweight transmission line insulator defect detection algorithm
 3. Install Pytorch
     torch: 2.2.2+cu121
     torchvision: 0.17.2+cu121
-4. pip install -e .     #please forget . sympol.
+4. pip install -e .     #please do not forget . sympol.
 # Code Description
 1. dataset configure file: "data/insulator.yaml"
 2. model configure files: "11/insulator/*.yaml"
