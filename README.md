@@ -14,4 +14,6 @@ A real-time lightweight transmission line insulator defect detection algorithm
 4. DCNV2, Bottleneck_DCNv2, and C3k2_DCNv2 are defined in "block.py" and registered in "task.py"
 # Dataset
 The dataset and .pt files are available at: https://drive.google.com/drive/folders/15LshaBBlh1M_uvE-OO6PrymcqXbnQR66?usp=drive_link
+The customized dataset comprised 1,600 images, 1,280 of which were used for training and 320 for validation. 
+Training epochs were set to 200. Batch size is set to 32.
 
